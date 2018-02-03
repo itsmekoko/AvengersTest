@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Avengers Test</string>
+
+    <!-- Quizzes strings -->
+    <string name="q1">1. When the Avengers assembled for the very first time in the comics, they consisted of which five members?</string>
+    <string name="q2">2. What\'s Spider-Man\'s secret identity?</string>
+    <string name="q3">3. Which superheroes are part of the Avengers?</string>
+    <string name="q4">4. Who became the de-facto leader of the Avengers, even though he wasn\'t a founding member?</string>
+    <string name="q5">5. Who was the first black superhero that joined the team?</string>
+
+    <!-- Answers strings -->
+    <string name="q1A">The Hulk, Swordsman, Tigra, Black Widow, Hawkeye</string>
+    <string name="q1B">Iron Man, Thor, Captain America, The Hulk, Black Panther</string>
+    <string name="q1C">Captain America, Iron Man, Quicksilver, Scarlet Witch, Wonder Man</string>
+    <string name="q1D">Iron Man, Thor, The Wasp, Ant-Man, The Hulk</string>
+
+    <string name="q2A">Steven Rogers</string>
+    <string name="q2B">Peter Parker</string>
+    <string name="q2C">Tony Stark</string>
+    <string name="q2D">Bruce Banner</string>
+
+    <string name="q3A">Thor</string>
+    <string name="q3B">Flash</string>
+    <string name="q3C">Scarlet Witch</string>
+    <string name="q3D">Cat Woman</string>
+
+    <string name="q4Answer">Captain America</string>
+    <string name="q4Hint">Enter text here</string>
+
+    <string name="q5A">Black Panther</string>
+    <string name="q5B">Luke Cage</string>
+    <string name="q5C">Blade</string>
+    <string name="q5D">Falcon</string>
+
+    <string name="Submit">Submit</string>
+    <string name="apptext">Avengers Test</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="start">Start</string>
+    <string name="your_score">Your score is:</string>
+    <string name="share">Share</string>
+    <string name="scoreMessage">\u0020your score at the AvengersQuizz is\u0020</string>
+    <string name="black_panther_and_blade">black panther and blade</string>
+    <string name="captain_america">captain america</string>
+    <string name="avengers_pic_3">avengers pic 3</string>
+    <string name="avengers_pic_2">avengers pic 2</string>
+    <string name="avengers_pic">avengers pic</string>
+</resources>
